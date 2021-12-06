@@ -56,4 +56,4 @@
 
 * This was the method that was used in the past for image recognition.
 
-![Screenshot from 2021-11-25 01-23-33](https://user-images.githubusercontent.com/82901720/144760153-0cc6b7e2-6f76-440b-b5be-10ed92b02151.png)
+![Screenshot from 2021-11-25 01-23-33](https://user-images.githubusercontent.com/82901720/144788800-ede66cc1-cbe7-4d66-b2db-92dad028fb23.png)

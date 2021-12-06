@@ -2,7 +2,7 @@
 
 ## Chain rule
 
-![Screenshot from 2021-12-05 22-31-29](https://user-images.githubusercontent.com/82901720/144761651-a2b096f2-179c-43e6-a4df-82e3406c9d94.png)
+![Screenshot from 2021-12-06 10-14-06](https://user-images.githubusercontent.com/82901720/144788647-c479cee4-c19f-40b9-8550-eb8b2c8d57a4.png)
 
 * Our aim is to find the change in cost function 'C' with respect to change in 'w'.
 * The term 'del(C0)/del(w[L])' is the ratio of the nudge in the cost function to the nudge in w[L].
@@ -23,7 +23,7 @@
 
 * And this is one component of the gradient vector which is made up of derivatives of the cost function with all weights and biases present.
 
-![Screenshot from 2021-12-05 22-33-38](https://user-images.githubusercontent.com/82901720/144761744-e42256bf-2412-4435-93c5-7618ddccb0c8.png)
+![Screenshot from 2021-12-05 22-33-38](https://user-images.githubusercontent.com/82901720/144788369-1ab32b70-1629-416f-8e00-b2d495ad74d1.png)
 
 * The expression of the term 'del(C0)/del(b[L])' is as follows :
   
